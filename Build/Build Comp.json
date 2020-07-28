@@ -1,0 +1,16 @@
+{
+"companyName": "MülHeiMin",
+"productName": "Mühlheim Illustrated",
+"productVersion": "0.9",
+"dataUrl": "Build Comp.data.unityweb",
+"wasmCodeUrl": "Build Comp.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build Comp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#E5E5E5",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
